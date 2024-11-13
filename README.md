@@ -24,5 +24,11 @@ I'm a DevOps enthusiast, actively expanding my knowledge in cloud and automation
 Feel free to reach out if you’re interested in discussing DevOps, open-source projects, or collaboration opportunities!
 
 ---
+### 🤝 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge)](YOUR_GITHUB_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](YOUR_INSTAGRAM_URL)
+
+---
 Thanks for visiting, and happy coding! 😄
