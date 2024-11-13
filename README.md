@@ -3,7 +3,7 @@
 I'm a DevOps enthusiast, actively expanding my knowledge in cloud and automation technologies to build efficient and scalable workflows. 🚀 Currently, I'm diving deep into **DevOps** tools and practices, focusing on automation, containerization, and continuous integration.
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/burhankhan503/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/burhankhan503/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge)](YOUR_GITHUB_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](YOUR_INSTAGRAM_URL)
 
