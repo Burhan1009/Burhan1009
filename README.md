@@ -25,8 +25,5 @@ I'm a DevOps enthusiast, actively expanding my knowledge in cloud and automation
 - **Advanced Kubernetes**: Diving deeper into networking, scaling, and monitoring in Kubernetes.
 - **CI/CD Best Practices**: Enhancing knowledge of DevOps workflows for improved software delivery.
 
-### 🤝 Connect with Me:
-Feel free to reach out if you’re interested in discussing DevOps, open-source projects, or collaboration opportunities!
-
 
 Thanks for visiting, and happy coding! 😄
