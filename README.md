@@ -5,7 +5,7 @@ I'm a DevOps enthusiast, actively expanding my knowledge in cloud and automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/burhankhan503/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/burhan503)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram/burhan.gif)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/burhan.gif)
 
 ### 💻 Technologies & Skills I've Covered:
 - **Linux & Advanced Linux**: Command-line proficiency, shell scripting, system administration, and advanced Linux networking.
